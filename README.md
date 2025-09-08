@@ -1,6 +1,6 @@
 # Blender to Meta Horizon Exporter
 
-A comprehensive Blender add-on designed specifically for Meta Horizon Worlds asset creation. This tool provides material analysis, export tools, and a guided workflow wizard to ensure your assets meet Meta Horizon Worlds requirements.
+A comprehensive Blender add-on designed specifically for Meta Horizon Worlds asset creation. This tool provides material analysis, export tools, and a guided workflow wizard to help your assets meet Meta Horizon Worlds requirements.
 
 ## Features
 
@@ -43,7 +43,6 @@ A comprehensive Blender add-on designed specifically for Meta Horizon Worlds ass
 ### Quick Start
 1. Open the **N-Panel** in the 3D Viewport (`N` key)
 2. Navigate to the **"Horizon Worlds"** tab
-3. Use the **Export Wizard** for a guided experience, or access individual tools directly
 
 ### Workflow Sections
 
@@ -67,7 +66,7 @@ A comprehensive Blender add-on designed specifically for Meta Horizon Worlds ass
 ## Requirements
 
 - **Blender Version**: 4.4.0 or higher
-- **Export Format**: FBX (required for Meta Horizon Worlds)
+- **Graphics Card**: NVIDIA RTX 3070/4060 Ti or AMD RX 6700 XT or higher recommended (8GB+ VRAM)
 - **Platform**: Compatible with Meta Horizon Worlds asset requirements
 
 ## Supported Material Types
@@ -83,13 +82,6 @@ The add-on recognizes and properly handles all Meta Horizon Worlds material type
 - **Vertex Color (_VXC, _VXM)**: Materials using vertex color data
 - **UI Optimized (_UIO)**: Performance-optimized materials for UI elements
 
-## Tips for Best Results
-
-1. **Start with the Wizard**: Use the Export Wizard for first-time users or complex scenes
-2. **Material Naming**: Let the add-on handle naming conventions automatically
-3. **UV Channels**: Ensure proper UV unwrapping before export
-4. **Polygon Counts**: Use the decimation tools to optimize mesh density
-5. **Modifiers**: Apply geometry modifiers before export for best compatibility
 
 ## Troubleshooting
 
@@ -108,4 +100,4 @@ This add-on is designed specifically for Meta Horizon Worlds asset creation and 
 
 ---
 
-*For more information about Meta Horizon Worlds asset requirements, please refer to the official Meta Horizon Worlds documentation.*
+*For more information about Meta Horizon Worlds asset requirements, please refer to the [official Meta Horizon Worlds documentation](https://developers.meta.com/horizon-worlds/learn/documentation/custom-model-import/creating-custom-models-for-horizon-worlds/materials-guidance-and-reference-for-custom-models).*
