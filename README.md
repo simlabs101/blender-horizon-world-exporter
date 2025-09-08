@@ -32,9 +32,9 @@ A comprehensive Blender add-on designed specifically for Meta Horizon Worlds ass
 
 ## Installation
 
-1. Download the `__init__.py` file
+1. Download the latest release zip file from the [Releases](../../releases) section
 2. Open Blender and go to `Edit > Preferences > Add-ons`
-3. Click `Install...` and select the `__init__.py` file
+3. Click `Install...` and select the downloaded zip file
 4. Enable the "Blender to Meta Horizon Exporter" add-on
 5. The add-on panel will appear in the 3D Viewport's N-Panel under "Horizon Worlds"
 
@@ -82,7 +82,6 @@ The add-on recognizes and properly handles all Meta Horizon Worlds material type
 - **Vertex Color (_VXC, _VXM)**: Materials using vertex color data
 - **UI Optimized (_UIO)**: Performance-optimized materials for UI elements
 
-
 ## Troubleshooting
 
 - **Materials not recognized**: Ensure materials use Principled BSDF or supported shader types
@@ -90,9 +89,6 @@ The add-on recognizes and properly handles all Meta Horizon Worlds material type
 - **Performance**: Use decimation tools for high-poly models
 - **Naming conflicts**: Run the naming validation tools before export
 
-## Author
-
-**SimLabs101** - Version 1.0.0
 
 ## License
 
