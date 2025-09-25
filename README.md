@@ -92,7 +92,7 @@ The add-on recognizes and properly handles all Meta Horizon Worlds material type
 
 ## License
 
-This add-on is designed specifically for Meta Horizon Worlds asset creation and follows their platform requirements and guidelines.
+MIT License
 
 ---
 
